@@ -1,1 +1,3 @@
-﻿
+﻿bool
+    int
+    float
